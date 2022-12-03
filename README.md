@@ -1,2 +1,4 @@
-# Jogo-Space-Shooter
-Criando o jogo Space Shooter usando HTML5, CSS e JavaScript.
+# Space-Shooter-Game
+
+Creating the game using HTML5, CSS and JavaScript.
+
